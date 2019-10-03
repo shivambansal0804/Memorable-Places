@@ -4,3 +4,6 @@ We can save the place by long click at the place we want to save. Procedure -
 Click Add a new place ->  We will be directed to the maps activity with the current location. 
 
 // hacktober//
+//hacktober new pull request// 
+pls accept
+
